@@ -2,6 +2,14 @@
 	"files.associations": {
 		"iostream": "cpp",
 		"vector": "cpp",
-		"initializer_list": "cpp"
+		"initializer_list": "cpp",
+		"__bit_reference": "cpp",
+		"__config": "cpp",
+		"__split_buffer": "cpp",
+		"algorithm": "cpp",
+		"bit": "cpp",
+		"bitset": "cpp",
+		"memory": "cpp",
+		"string": "cpp"
 	}
 }
